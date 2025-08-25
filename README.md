@@ -4,7 +4,7 @@ Este projeto é uma recriação da landing page do Discord, desenvolvido como pa
 
 ## 💻 Visualização
 
-![Visualização do Projeto](pagina.jpg)
+![Visualização do Projeto](./assets/pagina.png)
 
 ## ✨ Funcionalidades
 
